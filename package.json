@@ -1,0 +1,19 @@
+{
+  "name": "todo-storage",
+  "version": "1.0.0",
+  "description": "To Do List - Local Storage Included",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Barros",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "http-server": "^0.9.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+} ','
+"start": "./node_modules/.bin/http-server"
